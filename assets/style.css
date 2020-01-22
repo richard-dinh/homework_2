@@ -27,6 +27,12 @@
   text-align: center;
 }
 
+.portImg, .cardStyle {
+ margin: 0 auto;
+ max-width: 100%;
+ max-height: 100%;
+}
+
 body{
   background-color: rgb(120, 172, 120);
 }
