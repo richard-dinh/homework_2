@@ -1,0 +1,10 @@
+.footStyle {
+  /* Makes footer always at the bottom of the page */
+  position: fixed;
+  bottom: 0;
+  background-color: black;
+  color: white;
+  text-align: center;
+  /* Makes the footer expand the width of the page */
+  width: 100%;
+}
